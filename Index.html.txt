@@ -1,0 +1,67 @@
+<html>
+<!DOCTYPE html>
+ <head>
+  <meta lang="es-ES">
+  <title>My Resume</title>
+</head>
+<body>
+  <section id="myResume">
+    <article id="profile">
+      <h1>Rubén Moreno</h1>
+      <img src="./images/ruben.jpg" alt="Foto perfil Ruben"></img>
+    </article>
+    <article id="summary">
+      <h1>Summary</h1>
+      <p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam arcu purus, malesuada et commodo et, pharetra at magna. Nulla facilisi.
+      </p>
+    </article>
+    <article id="education">
+      <h1>Education</h1>
+      <ul>
+        <li>Morbi ac ligula consectetur, posuere ipsum sit amet, lobortis erat. Vestibulum nunc nulla, fringilla nec odio a, condimentum volutpat nibh.</li>
+      </ul>
+    </article>
+    <article id="workExperience">
+      <h1>Work Experience</h1>
+      <ul>
+      <li>
+        Nullam vehicula vel nibh ut tincidunt.
+      </li>
+      <li>
+        Morbi porttitor dolor vitae metus placerat tincidunt a in odio.
+      </li>
+      </ul>
+    </article>
+    <article id="skills">
+      <h1>Skills</h1>
+      <ul>
+      <li>
+      Nunc porttitor nulla in felis commodo, et sagittis orci accumsan.
+      </li>
+      <li>
+        Quisque placerat quam eros.
+      </li>
+      <li>
+        Ut eget nibh in massa dictum elementum. 
+      </li>
+      <li>
+        Aliquam vestibulum sem at dapibus sollicitudin.
+      </li>
+      </ul>
+    </article>
+    <article id="awards">
+      <h1>Awards, certifications, or other achievements</h1>
+      <ul>
+      <li>
+        Nam arcu purus, malesuada et commodo et, pharetra at magna.
+      </li>
+      </ul>
+    </article>
+  </section>
+  <footer>
+    <a href="./hobbies.html">Hobbies</a>
+    <a href="./contact.html">Contact</a>
+  </footer>
+</body>
+</html>
